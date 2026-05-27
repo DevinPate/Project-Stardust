@@ -1,0 +1,23 @@
+Testing to see how to use and learn GitHub better
+
+Current Goals:
+Use AI to see what coding platform would be best to make a game like this
+Make the game simpler, it is currently too complicated and using a combination of too many games
+Trying to make a similar game to Legends of Idleon by Lava2, but using too many elements
+
+Home base on a livable planet in green area in unique solar system. 
+
+Own a solar system similar to Hades or a Starship battlecruiser like pixel star ships
+
+
+Go to solar systems to clear them of enemies - Mix of Vampire Survivors and Fortnite Save the World
+Send drone operator down to the planet to take control back similar to Marathon
+Options include
+Plague planets with Zerg like bio enemy races
+Robots taking over a planet similar to automatons from Helldivers
+Alien race with future technology similar to Viltrumites from Invincible
+
+Scavenge planets for artifacts and Credits, minor from planets, major from systems
+
+Build your own personal Ship and System
+Protect your system from invaders and your ship from pirates, not sure how yet. 
